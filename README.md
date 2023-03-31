@@ -1,16 +1,8 @@
-# Smart-AI-Attendance-System-With-AntiSpoofing
-
-## HOW TO RUN THIS PROJECT
-
-### 1.  Download the repository on your local computer.
-
-https://github.com/prabhat-123/Attendance_System_Using_Face_Recognition.git
 
 
-### 2. After downloading, you have to open Command prompt/Anaconda prompt/Visual studio terminal to run this project.
+After downloading, you have to open Command prompt/Anaconda prompt/Visual studio terminal to run this project.
 
-
-### 3. Before running any files, you have to set up  virtual environment in the directory where the project is located and 
+Before running any files, you have to set up  virtual environment in the directory where the project is located and 
 install all the dependenices required for this project.
 
 
